@@ -1,0 +1,110 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,bang_png,button_png,bang2_png,bang22_png,bang3_png,bang4_png,button2_png,loading2_png,pipe2_png,small_square2_png,square2_png,ball_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/bang.png",
+			"type": "image",
+			"name": "bang_png"
+		},
+		{
+			"url": "assets/square.png",
+			"type": "image",
+			"name": "square_png"
+		},
+		{
+			"url": "assets/small_square.png",
+			"type": "image",
+			"name": "small_square_png"
+		},
+		{
+			"url": "assets/pipe.png",
+			"type": "image",
+			"name": "pipe_png"
+		},
+		{
+			"url": "assets/loading.png",
+			"type": "image",
+			"name": "loading_png"
+		},
+		{
+			"url": "assets/button.png",
+			"type": "image",
+			"name": "button_png"
+		},
+		{
+			"url": "assets/bang.png",
+			"type": "image",
+			"name": "bang2_png"
+		},
+		{
+			"url": "assets/bang2.png",
+			"type": "image",
+			"name": "bang22_png"
+		},
+		{
+			"url": "assets/bang3.png",
+			"type": "image",
+			"name": "bang3_png"
+		},
+		{
+			"url": "assets/bang4.png",
+			"type": "image",
+			"name": "bang4_png"
+		},
+		{
+			"url": "assets/button.png",
+			"type": "image",
+			"name": "button2_png"
+		},
+		{
+			"url": "assets/loading.png",
+			"type": "image",
+			"name": "loading2_png"
+		},
+		{
+			"url": "assets/pipe.png",
+			"type": "image",
+			"name": "pipe2_png"
+		},
+		{
+			"url": "assets/small_square.png",
+			"type": "image",
+			"name": "small_square2_png"
+		},
+		{
+			"url": "assets/square.png",
+			"type": "image",
+			"name": "square2_png"
+		},
+		{
+			"url": "assets/ball.png",
+			"type": "image",
+			"name": "ball_png"
+		},
+		{
+			"url": "assets/ball.png",
+			"type": "image",
+			"name": "ball2_png"
+		}
+	]
+}
